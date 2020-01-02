@@ -23,3 +23,12 @@
   border: 1px solid white;
   z-index: 1;
 }
+
+.header{
+  text-align: center
+}
+
+.score{
+  text-align: center;
+  font-display: bold;
+}
